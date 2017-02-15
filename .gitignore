@@ -1,0 +1,4 @@
+VisualStudio/Debug
+VisualStudio/Release
+*.sdf
+*.suo
